@@ -19,9 +19,9 @@ Compile Command:
 
 Usage: 
 
-1. For Windows: `./m3u8.exe [url] [file] [thread]`
+1. For Windows: `./main.exe [url] [file] [thread]`
 
-2. For Linux: `./m3u8 [url] [file] [thread]`
+2. For Linux: `./main [url] [file] [thread]`
 
 Author: 
 
