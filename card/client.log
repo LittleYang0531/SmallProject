@@ -1,0 +1,1793 @@
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 47198
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: LittleYang0531
+[Connector] [Info] Client::SendData(const char*): Send Byte: 45byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531
+[Connector] [Info] Client::RecvData(): Recieve Byte: 45byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 43962
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: haha
+[Connector] [Info] Client::SendData(const char*): Send Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: haha
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531
+[Connector] [Info] Client::RecvData(): Recieve Byte: 45byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: haha
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 45906
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 3
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531
+[Connector] [Info] Client::RecvData(): Recieve Byte: 45byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: haha
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S7AB756J72A0568J5
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 390AQK97258844K22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 9KQ0J3QQ96A3K4364
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S7AB756J72A0568J5
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 390AQK97258844K22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 9KQ0J3QQ96A3K436480J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531[You]: 17 | haha: 17 | 3[Turn]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 79byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531: 17 | haha[You]: 17 | 3[Turn]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 79byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531: 17 | haha: 17 | 3[Turn][You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 79byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S7AB756J72A0568J5
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 390AQK97258844K22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 9KQ0J3QQ96A3K436480J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531[Turn][You]: 17 | haha: 17 | 3: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 79byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531[Turn]: 17 | haha[You]: 17 | 3: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 79byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: LittleYang0531[Turn]: 17 | haha: 17 | 3[You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 79byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 44257
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Error] Client::SetEnvironment(string ip, int port, string namae): inet_pton error!
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 48675
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 46752
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 3
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S55QA9QAA4K626954
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 24K87B2JA3J6J3794
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 7J320Q98KQ0K38860
+[Connector] [Info] Client::RecvData(): Recieve Byte: 62byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S55QA9QAA4K626954570
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 24K87B2JA3J6J3794
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 20 | 2: 17 | 3: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 63byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 7J320Q98KQ0K38860
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 20 | 2[You]: 17 | 3: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 63byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 20 | 2: 17 | 3[You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 63byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S55QA9QAA4K626954570
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 24K87B2JA3J6J3794
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 20 | 2[Turn][You]: 17 | 3: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 63byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 20 | 2[Turn]: 17 | 3: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 63byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 7J320Q98KQ0K38860
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 20 | 2[Turn]: 17 | 3[You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 63byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 48520
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: a
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 42478
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: b
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: b
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 893J270J323AQJ400
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: b
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S78K8362Q59244K49
+[Connector] [Info] Client::RecvData(): Recieve Byte: 62byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: b
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 893J270J323AQJ400
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S78K8362Q59244K496QA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a[You]: 17 | b[Turn]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a: 17 | b[Turn][You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: b: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: b: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 893J270J323AQJ400
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S78K8362Q59244K496QA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a[Turn][You]: 17 | b: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a[Turn]: 17 | b[You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 47192
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: a
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 44933
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: b
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: b
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: B9A25A7K4JAJQ569K
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: b
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 7680SJ76AQ8K04922
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: B9A25A7K4JAJQ569K332
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 7680SJ76AQ8K04922
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a[Turn][You]: 20 | b: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a[Turn]: 20 | b[You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 7680SJ76AQ8K04922
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: B9A25A7K4JAJQ569K332
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a[You]: 20 | b[Turn]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: a: 20 | b[Turn][You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 42700
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 44693
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 90B530K2QQ0235057
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S846634JAKKJ83J29
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 90B530K2QQ0235057799
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S846634JAKKJ83J29
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 20 | 2: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 20 | 2[You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: S846634JAKKJ83J29
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 90B530K2QQ0235057799
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 20 | 2[Turn][You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 20 | 2[Turn]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 40979
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 41262
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 30S0477896K3J02JQ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 7Q8QQ33602642J6AJ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 40028
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 48018
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 5J970JQ6262679834
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 4K6B4A7JJ928Q3430
+[Connector] [Info] Client::RecvData(): Recieve Byte: 62byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 5J970JQ6262679834AAA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 20 | 2: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 4K6B4A7JJ928Q3430
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 20 | 2[You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 4K6B4A7JJ928Q3430
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 5J970JQ6262679834AAA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 20 | 2[Turn]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 20 | 2[Turn][You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 41358
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 47030
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: Q55J6Q5A32AS30KJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8K2278A394K9Q0778
+[Connector] [Info] Client::RecvData(): Recieve Byte: 62byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: Q55J6Q5A32AS30KJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 17 | 2[Turn]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8K2278A394K9Q07786JJ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 17 | 2[Turn][You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: Q55J6Q5A32AS30KJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 17 | 2: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8K2278A394K9Q07786JJ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 17 | 2[You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 46991
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Error] Client::SendData(const char*): Recieve Signal error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 49369
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 47595
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 703Q2A8A934K7Q64Q
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 03BS5JK986A5A7452
+[Connector] [Info] Client::RecvData(): Recieve Byte: 62byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 703Q2A8A934K7Q64Q
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 17 | 2[Turn]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 03BS5JK986A5A7452J22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 17 | 2[Turn][You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 703Q2A8A934K7Q64Q
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 03BS5JK986A5A7452J22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 17 | 2: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 17 | 2[You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 49929
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 48841
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8B529763QK67J7852
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 4K4K04983JQ572JAA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8B529763QK67J7852
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 4K4K04983JQ572JAA0QA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 17 | 2[Turn]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 17 | 2[Turn][You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8B529763QK67J7852
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 4K4K04983JQ572JAA0QA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 17 | 2: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 17 | 2[You]: 20
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 49556
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 44771
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 40961
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 49846
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 40222
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 47689
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 43377
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 47134
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 44438
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3BSJ24J67775K9Q52
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 94J8Q4076Q4883A06
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 94J8Q4076Q4883A06
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3BSJ24J67775K9Q52302
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 20 | 2[You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 20 | 2: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 94J8Q4076Q4883A06
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 3BSJ24J67775K9Q52302
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 20 | 2[Turn][You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 20 | 2[Turn]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 
+[Connector] [Info] Client::SendData(const char*): Send Byte: 31byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Error] Client::RecvData(): Recieve data error
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 46821
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1.0.2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 46194
+[Connector] [Info] Client::RecvData(): Recieve Byte: 50byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 2
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: O
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ32AJ03K
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 655A2Q803Q2JA0739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 1
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: get
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ32AJ03K99K
+[Connector] [Info] Client::RecvData(): Recieve Byte: 51byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 655A2Q803Q2JA0739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 20 | 2: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 20 | 2[You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 33
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 33
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 33
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 655A2Q803Q2JA0739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0K99K
+[Connector] [Info] Client::RecvData(): Recieve Byte: 49byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 18 | 2[Turn]: 17
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 18 | 2[Turn][You]: 17
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 55
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 55
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 55
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0K99K
+[Connector] [Info] Client::RecvData(): Recieve Byte: 49byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 18 | 2: 15
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 6A2Q803Q2JA0739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 46byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 18 | 2[You]: 15
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 99
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 99
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 99
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 6A2Q803Q2JA0739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 46byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0KK
+[Connector] [Info] Client::RecvData(): Recieve Byte: 47byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 16 | 2[Turn][You]: 15
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 16 | 2[Turn]: 15
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 00
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 00
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 00
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0KK
+[Connector] [Info] Client::RecvData(): Recieve Byte: 47byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 16 | 2: 13
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 6A2Q83Q2JA739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 44byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 16 | 2[You]: 13
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: KK
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: KK
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: KK
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 6A2Q83Q2JA739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 44byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 45byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 14 | 2[Turn][You]: 13
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 14 | 2[Turn]: 13
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: AA
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: AA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: AA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 45byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 14 | 2: 11
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 62Q83Q2J739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 42byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 14 | 2[You]: 11
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: N
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 62Q83Q2J739
+[Connector] [Info] Client::RecvData(): Recieve Byte: 42byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 45byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 14 | 2[Turn][You]: 11
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 14 | 2[Turn]: 11
+[Connector] [Info] Client::RecvData(): Recieve Byte: 55byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 33
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 33
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 33
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2J4S6BQ4AJ2AJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 45byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 14 | 2: 9
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 62Q8Q2J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 40byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 14 | 2[You]: 9
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 44
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 44
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 44
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 62Q8Q2J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 40byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQAJ2AJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 43byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 12 | 2[Turn][You]: 9
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 12 | 2[Turn]: 9
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: QQ
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: QQ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: QQ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQAJ2AJ0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 43byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 6282J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 38byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 12 | 2: 7
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 12 | 2[You]: 7
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: AA
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: AA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: AA
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 6282J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 38byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQJ2J0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 41byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 10 | 2[Turn][You]: 7
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 10 | 2[Turn]: 7
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 22
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQJ2J0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 41byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 10 | 2: 5
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 68J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 10 | 2[You]: 5
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: N
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 68J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQJ2J0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 41byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 10 | 2[Turn][You]: 5
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 10 | 2[Turn]: 5
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 6
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 6
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 6
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQJ2J0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 41byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 10 | 2: 4
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 10 | 2[You]: 4
+[Connector] [Info] Client::RecvData(): Recieve Byte: 54byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 0
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 0
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 8J79
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQJ2J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 40byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 9 | 2[Turn][You]: 4
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 9 | 2[Turn]: 4
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: J
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BQJ2J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 40byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 9 | 2: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 879
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 9 | 2[You]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: Q
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: Q
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: Q
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 879
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BJ2J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 8 | 2[Turn][You]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 8 | 2[Turn]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: N
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2JS6BJ2J
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 8 | 2: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 879
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 8 | 2[You]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: JJJ6
+[Connector] [Info] Client::SendData(const char*): Send Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 6JJJ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 38byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 6JJJ
+[Connector] [Info] Client::RecvData(): Recieve Byte: 38byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 879
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2SB2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 4 | 2[Turn]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 4 | 2[Turn][You]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: N
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2SB2
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 4 | 2: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 879
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 4 | 2[You]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: 22
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 22
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 879
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: SB
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: 2 | 2[Turn][You]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[You]: 2 | 2[Turn]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 48byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: N
+[Connector] [Info] Client::SendData(const char*): Send Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 2: 
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: SB
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: continue
+[Connector] [Info] Client::RecvData(): Recieve Byte: 39byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 879
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn][You]: 2 | 2: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1[Turn]: 2 | 2[You]: 3
+[Connector] [Info] Client::RecvData(): Recieve Byte: 53byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: pai
+[Connector] [Info] Client::RecvData(): Recieve Byte: 34byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: wait
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::SendData(const char*): Recieve Signal form Server: Recieve Signal
+[Connector] [Info] Client::SendData(const char*): Send Data to Server: SB
+[Connector] [Info] Client::SendData(const char*): Send Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: ok
+[Connector] [Info] Client::RecvData(): Recieve Byte: 33byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: SB
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1: SB
+[Connector] [Info] Client::RecvData(): Recieve Byte: 36byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: stop
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: stop
+[Connector] [Info] Client::RecvData(): Recieve Byte: 35byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte
+[Connector] [Info] Client::RecvData(): Recieve Data from Server: 1
+[Connector] [Info] Client::RecvData(): Recieve Byte: 32byte

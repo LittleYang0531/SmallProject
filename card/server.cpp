@@ -1,11 +1,15 @@
 #include<bits/stdc++.h>
+#ifdef __linux__
+#include"socket_linux.h"
+#else
 #include<Windows.h>
 #include<conio.h>
 #include"socket.h"
+#endif
 #include"poker.h"
 #define van long long
 using namespace std;
-van ren=3;
+van ren=2;
 Server s[4]; Client c[4];
 van lesscard[20]; string name[4];
 vector<van> pai[4]; Cards C,lst;
@@ -35,7 +39,7 @@ vector<van> tovec(string x) {
 			if (x[i]==toname[j][0]) ret.push_back(j);
 		}
 	} return ret;
-} string id="1.0.1";
+} string id="1.0.2";
 int main(int argc,char** argv) {
 	if (argc<3) {
 		cout<<"Usage: ./server.exe [ host ] [ port ]"<<endl;
@@ -67,11 +71,11 @@ int main(int argc,char** argv) {
 		}
 	} 
 	
-	// ·¢ÅÆÏµÍ³ 
+	// ï¿½ï¿½ï¿½ï¿½ÏµÍ³ 
 	for (int j=1;j<=17;j++) for (int i=1;i<=3;i++) pai[i].push_back(getpai());
 	for (int i=1;i<=ren;i++) s[i].SendData(tostring(pai[i]).c_str());
 	
-	// ÇÀµØÖ÷ÏµÍ³
+	// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÏµÍ³
 	vector<van> dz=getdz(); bool isget[4]={0},have=0;
 	for (int i=1;i<=ren;i++) {
 		isget[i]=atoi(s[i].RecvData().c_str());
@@ -84,7 +88,7 @@ int main(int argc,char** argv) {
 		else s[i].SendData(name[give].c_str());
 	}
 	
-	// ÕýÊ½ game
+	// ï¿½ï¿½Ê½ game
 	van now=give,num=1; string nowname[4];
 	while (1) {
 		for (int i=1;i<=ren;i++) s[i].SendData(tostring(pai[i]).c_str());
@@ -99,13 +103,13 @@ int main(int argc,char** argv) {
 		}	
 			
 		/*
-		1. ¸øÈý¸öÈË·¢ËÍÖ¸Áî ("wait"/"pai")
-		2. ½ÓÊÜ³öÅÆÈËµÄ³öÅÆÐÅÏ¢
-		3. ÅÐ¶Ï³öÅÆÊÇ·ñºÏ·¨
-		4. ²»ºÏ·¨¸ø³öÅÆÈË·¢ËÍÖ¸Áî "fail"£¬·µ»Øµ½µÚ 2 ²½
-		   ÈôºÏ·¨¸ø³öÅÆÈË·¢ËÍÖ¸Áî "ok"£¬Ö´ÐÐ½ÓÏÂÀ´µÄ²½Öè
-		5. ¸øËùÓÐÈË·¢ËÍ³öÅÆÐÅÏ¢
-		6. ¸øËùÓÐÈË·¢ËÍµ±Ç°ÅÆÐÅÏ¢ 
+		1. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë·ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ ("wait"/"pai")
+		2. ï¿½ï¿½ï¿½Ü³ï¿½ï¿½ï¿½ï¿½ËµÄ³ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
+		3. ï¿½Ð¶Ï³ï¿½ï¿½ï¿½ï¿½Ç·ï¿½Ï·ï¿½
+		4. ï¿½ï¿½ï¿½Ï·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë·ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ "fail"ï¿½ï¿½ï¿½ï¿½ï¿½Øµï¿½ï¿½ï¿½ 2 ï¿½ï¿½
+		   ï¿½ï¿½ï¿½Ï·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë·ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½ "ok"ï¿½ï¿½Ö´ï¿½Ð½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä²ï¿½ï¿½ï¿½
+		5. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë·ï¿½ï¿½Í³ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
+		6. ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë·ï¿½ï¿½Íµï¿½Ç°ï¿½ï¿½ï¿½ï¿½Ï¢ 
 		*/
 		
 		for (int i=1;i<=ren;i++) {
@@ -149,6 +153,5 @@ int main(int argc,char** argv) {
 		now++; if (now>ren) now-=ren;
 	}
 	
-	
-	getch();
+	getchar();
 }

@@ -1,7 +1,11 @@
 #include<bits/stdc++.h>
+#ifdef __linux__
+#include"socket_linux.h"
+#else
 #include<Windows.h>
 #include<conio.h>
 #include"socket.h"
+#endif
 #define van long long
 using namespace std;
 string name[16]={"","3","4","5","6","7","8","9","0","J","Q","K","A","2","S","B"};
@@ -17,11 +21,11 @@ vector<van> tovec(string x) {
 			if (x[i]==name[j][0]) ret.push_back(j);
 		}
 	} return ret;
-} string id="1.0.1";
+} string id="1.0.2";
 int main() {
-	string ip; int p;
-	cout<<"Server IP Address: "; cin>>ip;
-	cout<<"Server Port: "; cin>>p;
+	string ip = "127.0.0.1"; int p = 10086;
+	// cout<<"Server IP Address: "; cin>>ip;
+	// cout<<"Server Port: "; cin>>p;
 	string x;
 	cout<<"Input your name here: ";
 	cin>>x; Client c;
@@ -38,7 +42,8 @@ int main() {
 	while (ret=="R") {
 		c.SendData(x.c_str());
 		ret=c.RecvData();
-	} c.Clear();
+	} 
+	c.Clear();
 	c.SetEnvironment(ip,port,"Connector");
 	c.Connect();
 	for (int i=1;i<=ren;i++) {
@@ -46,22 +51,22 @@ int main() {
 		cout<<"User '"<<x<<"' add the game!"<<endl;
 	} cout<<"Game Start!"<<endl;
 	
-	// 发牌系统 
+	// 锟斤拷锟斤拷系统 
 	x=c.RecvData();
 	vector<van> pai=tovec(x); 
 	sort(pai.begin(),pai.end());
 	for (int i=0;i<17;i++) cout<<name[pai[i]]<<" "; cout<<endl;
 	
-	// 抢地主系统 
+	// 锟斤拷锟斤拷锟斤拷系统 
 	bool isget=false;
-	cout<<"Rob the landlord?: [y/n,default: n]"; char get;
-	cin>>get; if (get=='y'||get=='Y') isget=true;
+	cout<<"Rob the landlord?: [y/n,default: n]"; char get = 0;
+	cin >> get; if (get=='y'||get=='Y') isget=true;
 	c.SendData(isget?"1":"0");
 	string command=c.RecvData();
 	if (command=="get") cout<<"You rob the landlord!"<<endl;
 	else cout<<"'"<<command<<"' rob the landlord."<<endl;
 	
-	// 正式 game
+	// 锟斤拷式 game
 	while (1) {
 		cout<<endl;
 		pai=tovec(c.RecvData());
@@ -77,7 +82,7 @@ int main() {
 		if (command=="pai") {
 			while(1) {
 				cout<<"Input card: ";
-				string input; cin>>input;
+				string input; cin >> input;
 				if (input!="N") for (int i=0;i<input.size();i++) {
 					bool ok=false;
 					for (int j=1;j<=15;j++) {
@@ -101,10 +106,10 @@ int main() {
 			string name=c.RecvData();
 			cout<<"Game Over!"<<endl;
 			cout<<"'"<<name<<"' won the game!"<<endl;
-			getch();
+			getchar();
 			return 0;
 		}
 	} 
 	
-	getch();
+	getchar();
 }
