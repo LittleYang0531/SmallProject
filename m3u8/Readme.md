@@ -14,15 +14,13 @@ System Requirement:
 Compile Command: 
 
 1. For Windows: `g++ main.cpp -o main.exe -std=c++17 -lpthread -lcurl`
-
 2. For Linux: `g++ main.cpp -o main -std=c++17 -lpthread -lcurl`
 
 Usage: 
 
 1. For Windows: `./main.exe [url] [file] [thread]`
-
 2. For Linux: `./main [url] [file] [thread]`
 
 Author: 
 
-1. `main.cpp`: [@LittleYang0531](https://www.luogu.com.cn/user/185758)
+1. `main.cpp`: [@LittleYang0531](https://github.com/LittleYang0531)
