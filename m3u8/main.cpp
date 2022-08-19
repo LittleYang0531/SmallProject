@@ -121,7 +121,7 @@ void* download_thread(void* arg) {
 string save_to="";
 void* merge_thread(void* arg) {
     int thread_id=*(int*)arg;
-    int i=1; ofstream fout(save_to.c_str()); double now=0;
+    int i=1; ofstream fout(save_to.c_str(), ios::binary); double now=0;
     while (i<=url.size()) {
         van to=S.getfa(0);
         for (i;i<=to;i++) {
@@ -129,7 +129,7 @@ void* merge_thread(void* arg) {
             siz/=1024.0; siz/=1024.0;
             siz*=100; siz=round(siz); siz/=100.0; now+=siz;
             double st=clock2();
-            ifstream in(("/tmp/curl/"+to_string(i)+".ts").c_str());
+            ifstream in(("/tmp/curl/"+to_string(i)+".ts").c_str(), ios::binary);
             stringstream buffer,buffer2;
             buffer<<in.rdbuf();
             fout<<buffer.str();
@@ -158,10 +158,22 @@ int main(int argc,char** argv) {
         cout<<"Usage: "<<argv[0]<<" [url] [file] [thread]"<<endl;
         return 0;
     } save_to=argv[2]; thread_num=atoi(argv[3])+1;
-    while (isFileExists_stat("/tmp/curl")) {
+    if (!isFileExists_stat("/tmp")) {
+        #ifdef __linux__
+            mkdir("/tmp",0777);
+        #else 
+            mkdir("/tmp");
+        #endif
+    }
+    if (isFileExists_stat("/tmp/curl")) {
         cout<<"Clearing Cache Data..."<<endl;
         system("rm /tmp/curl -r");
-    } mkdir("/tmp/curl",0777);
+    } 
+    #ifdef __linux__
+        mkdir("/tmp/curl",0777);
+    #else 
+        mkdir("/tmp/curl");
+    #endif
     cout<<"Downloading index.m3u8..."<<endl;
     curl_get_download(argv[1],"/tmp/curl/index.m3u8");
     ifstream fin("/tmp/curl/index.m3u8"); S.init();

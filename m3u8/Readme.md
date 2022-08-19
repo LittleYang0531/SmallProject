@@ -1,5 +1,7 @@
 # M3U8 Downloader
 
+Download Link => [Click Me](https://github.com/LittleYang0531/SmallProject)
+
 This small project can be run in any operator system.
 
 System Requirement: 
@@ -13,7 +15,7 @@ System Requirement:
 
 Compile Command: 
 
-1. For Windows: `g++ main.cpp -o main.exe -std=c++17 -lpthread -lcurl`
+1. For Windows: `g++ main.cpp -o main.exe -std=c++17 -lpthread -lcurldll`
 2. For Linux: `g++ main.cpp -o main -std=c++17 -lpthread -lcurl`
 
 Usage: 
