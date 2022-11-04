@@ -6,9 +6,7 @@ This small project can be run in any operator system.
 
 New Features:
 
-1. Add anime website source "omofun.tv(dead)" and "malimali6.com"
-
-   Usage: php search.php [keywords]
+1. Add anime website source "omofun.tv(dead)" and "malimali6.com" | Usage: php search.php [keywords]
 
 System Requirement: 
 
