@@ -132,7 +132,10 @@ void* merge_thread(void* arg) {
             ifstream in(("/tmp/curl/"+to_string(i)+".ts").c_str(), ios::binary);
             stringstream buffer,buffer2;
             buffer<<in.rdbuf();
-            fout<<buffer.str();
+            string haha = buffer.str();
+            if (haha.find("PNG") != string::npos || haha.find("png") != string::npos) 
+                haha = haha.substr(212);
+            fout<<haha;
             double t=clock2()-st; t/=1000.0; sumt_merge+=t;
             double speed=t<=1e-10?0:siz/t;
             speed*=100; speed=round(speed); speed/=100.0;
@@ -177,23 +180,32 @@ int main(int argc,char** argv) {
     cout<<"Downloading index.m3u8..."<<endl;
     curl_get_download(argv[1],"/tmp/curl/index.m3u8");
     ifstream fin("/tmp/curl/index.m3u8"); S.init();
+    string header = argv[1];
+    bool ssl = (header[4] == 's');
+    if (ssl) header = header.substr(0, header.find("/", 8));
+    else header = header.substr(0, header.find("/", 7));
     while (!fin.eof()) {
         string x; getline(fin,x);
         if (x=="") continue;
         if (x[0]=='#') continue;
+        if (x.substr(0, 4) != "http") x += header + "/" + x;
         url.push_back(x);
     } fin.close(); curl_global_init(CURL_GLOBAL_ALL);
+    van st = clock2();
     for (int i=1;i<=atoi(argv[3]);i++) {
         pthread_create(&pt[i],NULL,download_thread,&i);
         usleep(10000);
     } int merge_id=atoi(argv[3])+1;
     for (int i=1;i<=atoi(argv[3]);i++) {
         pthread_join(pt[i],(void**)NULL);
-    } pthread_create(&pt[merge_id],NULL,merge_thread,&merge_id);
+    } 
+    double duration=(clock2()-st)/1000.0;
+    pthread_create(&pt[merge_id],NULL,merge_thread,&merge_id);
     pthread_join(pt[merge_id],(void**)NULL);
     cout<<"---------------------"<<endl;
     cout<<"Download Finished!"<<endl;
     cout<<"Video have saved to "<<getpath(argv[2])<<endl;
     cout<<"Have "<<failed<<" video part cannot download"<<endl;
+    cout<<"Average Speed: "<<fixed<<setprecision(2)<<(sum/duration)<<"MB/s"<<endl;
     cout<<"---------------------"<<endl;
 }
