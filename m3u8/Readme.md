@@ -4,6 +4,10 @@ Download Link => [Click Me](https://github.com/LittleYang0531/SmallProject)
 
 This small project can be run in any operator system.
 
+**New Features: **
+
+1. Add anime website source "omofun.tv(dead)" and "malimali6.com"
+
 System Requirement: 
 
 - For Windows: 
@@ -15,7 +19,7 @@ System Requirement:
 
 Compile Command: 
 
-1. For Windows: `g++ main.cpp -o main.exe -std=c++17 -lpthread -lcurldll`
+1. For Windows: `g++ main.cpp -o main.exe -std=c++17 -lpthread -lcurl -lcurldll`
 2. For Linux: `g++ main.cpp -o main -std=c++17 -lpthread -lcurl`
 
 Usage: 
